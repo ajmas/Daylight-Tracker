@@ -1,0 +1,17 @@
+# City Locations and Time Zones
+# Format: City<tab>Country<tab>Latitude<tab>Longitude<tab>TimeZone<cr>
+#
+Montreal	Canada	+45.30	-73.36	-5
+Cape Town	South Africa	-33.56	+18.22	+2
+Paris	France	+48.52	+2.20	+1
+London	United Kingdom	+51.30	-0.10	+0
+Melbourne	Australia	-37.50	+145.0	+10
+Canbera	Australia	-35.15	+149.8	+10
+Wellingtion	New Zealand	-41.17	+147.47	+23
+Tokyo	Japan	+35.42	+139.46	+9
+Moscow	Russia	+55.45	+37.35	+3
+Washington	USA	+38.55	-77.0	-5
+Santiago	Chile	-33.24	-70.40	-4
+Buenos Aires	Argentina	-34.37	-58.24	-3
+
+

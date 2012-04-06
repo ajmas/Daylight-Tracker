@@ -1,0 +1,4 @@
+Daylight Tracker 2 by André-John Mas
+
+The code for creating the night shadows is taken from XsunClock, written by John Walker,
+in C and ported to Java. The source for XsunClock can be found at http://www.fourmilab.ch/
